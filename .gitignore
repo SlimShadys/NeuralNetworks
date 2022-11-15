@@ -1,1 +1,8 @@
+# Ignore the cached datasets
+LAB/data
+
+# Ignore the Notebook checkpoints
 LAB/.ipynb_checkpoints
+
+# Ignore the Homework folder for now
+Homeworks/
